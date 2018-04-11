@@ -9,11 +9,11 @@ United Arab Emirates,United Arab Emirates,الإمارات العربية الم
 Argentina,Argentine Republic,Argentine Republic,Argentina,República Argentina,Argentina,AR,ARG
 Armenia,Republic of Armenia,Հայաստանի Հանրապետություն,Հայաստան,AM,ARM
 American Samoa,American Samoa,American Samoa,American Samoa,Sāmoa Amelika,Sāmoa Amelika,AS,ASA
-Antarctica,Antarctica,,AQ,
+Antarctica,Antarctica,AQ,ATA
 French Southern and Antarctic Lands,Territory of the French Southern and Antarctic Lands,Territoire des Terres australes et antarctiques rançaises,Terres australes et antarctiques françaises,TF,
 Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,AG,ANT
 Australia,Commonwealth of Australia,Commonwealth of Australia,Australia,AU,AUS
-Austria,Republic of Austria,Republik Österreich,Österreich,AT,AUT
+Austria,Republic of Austria,Republik Österreich,Österreich,AT,AUT,Victoria
 Azerbaijan,Republic of Azerbaijan,Azərbaycan Respublikası,Azərbaycan,Азербайджанская Республика,Азербайджан,AZ,AZE
 Burundi,Republic of Burundi,République du Burundi,Burundi,Republika y'Uburundi ,Uburundi,BI,BDI
 Belgium,Kingdom of Belgium,Königreich Belgien,Belgien,Royaume de Belgique,Belgique,Koninkrijk België,België,BE,BEL
@@ -78,7 +78,7 @@ France,French Republic,République française,France,FR,FRA
 Faroe Islands,Faroe Islands,Færøerne,Færøerne,Føroyar,Føroyar,FO,FRO
 Micronesia,Federated States of Micronesia,Federated States of Micronesia,Micronesia,FM,FSM
 Gabon,Gabonese Republic,République gabonaise,Gabon,GA,GAB
-United Kingdom,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,England,London,United Kingdom,GB,GBR,UK
+United Kingdom,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,England,London,United Kingdom,GB,GBR,UK,Cambridge,Oxford,Bristol,Leeds
 Georgia,Georgia,საქართველო,საქართველო,GE,GEO
 Guernsey,Bailiwick of Guernsey,Bailiwick of Guernsey,Guernsey,Bailliage de Guernesey,Guernesey,Dgèrnésiais,Dgèrnésiais,GG,
 Ghana,Republic of Ghana,Republic of Ghana,Ghana,GH,GHA
@@ -114,7 +114,7 @@ Italy,Italian Republic,Repubblica italiana,Italia,IT,ITA
 Jamaica,Jamaica,Jamaica,Jamaica,Jamaica,Jamaica,JM,JAM
 Jersey,Bailiwick of Jersey,Bailiwick of Jersey,Jersey,Bailliage de Jersey,Jersey,Bailliage dé Jèrri,Jèrri,JE,JEY
 Jordan,Hashemite Kingdom of Jordan,المملكة الأردنية الهاشمية,الأردن,JO,JOR
-Japan,Japan,日本,日本,JP,JPN
+Japan,Japan,日本,日本,JP,JPN,TOKYO
 Kazakhstan,Republic of Kazakhstan,Қазақстан Республикасы,Қазақстан,Республика Казахстан,Казахстан,KZ,KAZ
 Kenya,Republic of Kenya,Republic of Kenya,Kenya,Republic of Kenya,Kenya,KE,KEN
 Kyrgyzstan,Kyrgyz Republic,Кыргыз Республикасы,Кыргызстан,Кыргызская Республика,Киргизия,KG,KGZ
@@ -130,7 +130,7 @@ Liberia,Republic of Liberia,Republic of Liberia,Liberia,LR,LBR
 Libya,State of Libya,الدولة ليبيا,‏ليبيا,LY,LBA
 Saint Lucia,Saint Lucia,Saint Lucia,Saint Lucia,LC,LCA
 Liechtenstein,Principality of Liechtenstein,Fürstentum Liechtenstein,Liechtenstein,LI,LIE
-Sri Lanka,SriLanka,Democratic Socialist Republic of Sri Lanka,ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය,ශ්‍රී ලංකාව,இலங்கை சனநாயக சோசலிசக் குடியரசு,இலங்கை,SL,LK,LKA
+Sri Lanka,SriLanka,Democratic Socialist Republic of Sri Lanka,ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය,ශ්‍රී ලංකාව,இலங்கை சனநாயக சோசலிசக் குடியரசு,இலங்கை,SL,LK,LKA,Colombo
 Lesotho,Kingdom of Lesotho,Kingdom of Lesotho,Lesotho,Kingdom of Lesotho,Lesotho,LS,LES
 Lithuania,Republic of Lithuania,Lietuvos Respublikos,Lietuva,LT,LTU
 Luxembourg,Grand Duchy of Luxembourg,Großherzogtum Luxemburg,Luxemburg,Grand-Duché de Luxembourg,Luxembourg,Groussherzogtum Lëtzebuerg,Lëtzebuerg,LU,LUX
@@ -233,7 +233,7 @@ Uganda,Republic of Uganda,Republic of Uganda,Uganda,Republic of Uganda,Uganda,UG
 Ukraine,Ukraine,Україна,Україна,UA,UKR
 United States Minor Outlying Islands,United States Minor Outlying Islands,United States Minor Outlying Islands,United States Minor Outlying Islands,UM,UMI
 Uruguay,Oriental Republic of Uruguay,República Oriental del Uruguay,Uruguay,UY,URU
-United States,United States of America,New York,NY,Washington,Chicago,United States of America,United States,US,USA
+United States,United States of America,New York,NY,Washington,Chicago,California,Massachusetts,Texas,United States of America,United States,US,USA,AL,AK,AZ,AR,CA,CT,CO,DE,DC,FL,GA,HI,ID,IL,IN,IA,KS,KY,LA,ME,MD,MI,MN,MA,MO,MT,NE,NH,NV,NY,NC,ND,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VT,VA,WA,WV,WT,WY
 Uzbekistan,Republic of Uzbekistan,Республика Узбекистан,Узбекистан,O'zbekiston Respublikasi,O‘zbekiston,UZ,UZB
 Vatican City,Vatican City State,Stato della Città del Vaticano,Vaticano,Status Civitatis Vaticanæ,Vaticanæ,VA,
 Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VIN

@@ -115,7 +115,6 @@ public class CountryFunction extends FunctionExecutor {
         String[] location;
         String[] countryValues;
         String line;
-        String delimiter = ",";
         int i;
         int j;
         if (data == null) {
@@ -126,8 +125,8 @@ public class CountryFunction extends FunctionExecutor {
         try (BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream
                 , StandardCharsets.UTF_8))) {
             while ((line = bufferedReader.readLine()) != null) {
-                location = data.toString().split(delimiter);
-                countryValues = line.split(delimiter);
+                location = data.toString().split(" |,|-");
+                countryValues = line.split(",");
                 for (i = 0; i < location.length; i++) {
                     for (j = 0; j < countryValues.length; j++) {
                         if (location[i].trim().equalsIgnoreCase(countryValues[j])) {
